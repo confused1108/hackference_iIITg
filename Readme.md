@@ -28,3 +28,7 @@ Thus we implemented two layers of security viz distributed file on different pee
 3. CodeIgniter Framework for the web part of the Application.
 
 4. Rinkeby Test Network, ReactJS for the Blockchain uploading Part
+
+![screenshot](Screenshot%20(200).png)
+<br>
+![screenshot](Screenshot%20(201).png)
