@@ -43,8 +43,8 @@
       <file leaf-file-name="General.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/controllers/General.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
-              <caret line="44" column="43" lean-forward="false" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+            <state relative-caret-position="425">
+              <caret line="82" column="43" lean-forward="true" selection-start-line="82" selection-start-column="43" selection-end-line="82" selection-end-column="43" />
               <folding>
                 <element signature="n#user_fir#0;n#General#0;n#!!top" expanded="false" />
               </folding>
@@ -173,7 +173,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -521,12 +521,12 @@
       <option name="presentableId" value="Default" />
       <updated>1544879894266</updated>
       <workItem from="1544879896260" duration="1924000" />
-      <workItem from="1544900022919" duration="16307000" />
+      <workItem from="1544900022919" duration="16318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18231000" />
+    <option name="totallyTimeSpent" value="18242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="1" />
@@ -1287,8 +1287,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/General.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="44" column="43" lean-forward="false" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+        <state relative-caret-position="425">
+          <caret line="82" column="43" lean-forward="true" selection-start-line="82" selection-start-column="43" selection-end-line="82" selection-end-column="43" />
           <folding>
             <element signature="n#user_fir#0;n#General#0;n#!!top" expanded="false" />
           </folding>
